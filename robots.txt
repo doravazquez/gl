@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doravazquez.github.io/gl/sitemap.xml
